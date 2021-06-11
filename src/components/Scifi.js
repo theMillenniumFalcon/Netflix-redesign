@@ -16,49 +16,49 @@ const Scifi = (props) => {
                <Wrap>
                    <img src = '/images/interstellar.jpg' alt = '' />
                    <video autoPlay = { true } loop = { true } playsInline = { true }>
-                      <source src="/videos/army.mp4" type="video/mp4" />
+                      <source src="/videos/interstellar.mp4" type="video/mp4" />
                       </video>
                </Wrap>
                <Wrap>
                    <img src = '/images/tasm2.jpg' alt = '' />
                    <video autoPlay = { true } loop = { true } playsInline = { true }>
-                      <source src="/videos/oxygen.mp4" type="video/mp4" />
+                      <source src="/videos/tasm2.mp4" type="video/mp4" />
                       </video>
                </Wrap>
                <Wrap>
                    <img src = '/images/lucy.jpg' alt = '' />
                    <video autoPlay = { true } loop = { true } playsInline = { true }>
-                      <source src="/videos/trial.mp4" type="video/mp4" />
+                      <source src="/videos/lucy.mp4" type="video/mp4" />
                       </video>
                </Wrap>
                <Wrap>
                    <img src = '/images/tomorrow.jpg' alt = '' />
                    <video autoPlay = { true } loop = { true } playsInline = { true }>
-                      <source src="/videos/dot.mp4" type="video/mp4" />
+                      <source src="/videos/tomorrow.mp4" type="video/mp4" />
                       </video>
                </Wrap>
                <Wrap>
                    <img src = '/images/inception.jpg' alt = '' />
                    <video autoPlay = { true } loop = { true } playsInline = { true }>
-                      <source src="/videos/dot.mp4" type="video/mp4" />
+                      <source src="/videos/inception.mp4" type="video/mp4" />
                       </video>
                </Wrap>
                <Wrap>
                    <img src = '/images/transformers.jpg' alt = '' />
                    <video autoPlay = { true } loop = { true } playsInline = { true }>
-                      <source src="/videos/dot.mp4" type="video/mp4" />
+                      <source src="/videos/transformers.mp4" type="video/mp4" />
                       </video>
                </Wrap>
                <Wrap>
                    <img src = '/images/bvs.jpg' alt = '' />
                    <video autoPlay = { true } loop = { true } playsInline = { true }>
-                      <source src="/videos/dot.mp4" type="video/mp4" />
+                      <source src="/videos/bvs.mp4" type="video/mp4" />
                       </video>
                </Wrap>
                <Wrap>
                    <img src = '/images/mortal.jpg' alt = '' />
                    <video autoPlay = { true } loop = { true } playsInline = { true }>
-                      <source src="/videos/dot.mp4" type="video/mp4" />
+                      <source src="/videos/mortal.mp4" type="video/mp4" />
                       </video>
                </Wrap>
             </Content>

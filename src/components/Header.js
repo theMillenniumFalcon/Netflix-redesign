@@ -106,10 +106,6 @@ background: transparent;
   padding: 0 36px;
   letter-spacing: 16px;
   z-index: 3;
-  transition: all 0.2s ease 0.02s;
-  &:hover {
-    background-color: rgb(0, 0, 0); !important
-  }
 `;
 
 const Logo = styled.a`

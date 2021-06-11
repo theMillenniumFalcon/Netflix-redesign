@@ -4,9 +4,7 @@ import Continue from "./Continue";
 import Categories from "./Categories";
 import Hollywood from "./Hollywood";
 import Drama from "./Drama"
-import Documentary from "./Documentary"
 import Scifi from "./Scifi"
-import Extra from "./Extra"
 
 const Home = (props) => {
     return (
@@ -16,9 +14,7 @@ const Home = (props) => {
             <Categories />
             <Hollywood />
             <Drama />
-            <Documentary />
             <Scifi />
-            <Extra />
         </Container>
     );
 };

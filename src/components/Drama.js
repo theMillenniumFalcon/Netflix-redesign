@@ -16,49 +16,49 @@ const Drama = (props) => {
                <Wrap>
                    <img src = '/images/nightcrawler.jpg' alt = '' />
                    <video autoPlay = { true } loop = { true } playsInline = { true }>
-                      <source src="/videos/army.mp4" type="video/mp4" />
+                      <source src="/videos/nightcrawler.mp4" type="video/mp4" />
                       </video>
                </Wrap>
                <Wrap>
                    <img src = '/images/mank.jpg' alt = '' />
                    <video autoPlay = { true } loop = { true } playsInline = { true }>
-                      <source src="/videos/oxygen.mp4" type="video/mp4" />
+                      <source src="/videos/mank.mp4" type="video/mp4" />
                       </video>
                </Wrap>
                <Wrap>
                    <img src = '/images/blood.jpg' alt = '' />
                    <video autoPlay = { true } loop = { true } playsInline = { true }>
-                      <source src="/videos/trial.mp4" type="video/mp4" />
+                      <source src="/videos/blood.mp4" type="video/mp4" />
                       </video>
                </Wrap>
                <Wrap>
                    <img src = '/images/marriage.jpg' alt = '' />
                    <video autoPlay = { true } loop = { true } playsInline = { true }>
-                      <source src="/videos/dot.mp4" type="video/mp4" />
+                      <source src="/videos/marriage.mp4" type="video/mp4" />
                       </video>
                </Wrap>
                <Wrap>
                    <img src = '/images/mudbound.jpg' alt = '' />
                    <video autoPlay = { true } loop = { true } playsInline = { true }>
-                      <source src="/videos/dot.mp4" type="video/mp4" />
+                      <source src="/videos/mudbound.mp4" type="video/mp4" />
                       </video>
                </Wrap>
                <Wrap>
                    <img src = '/images/network.jpg' alt = '' />
                    <video autoPlay = { true } loop = { true } playsInline = { true }>
-                      <source src="/videos/dot.mp4" type="video/mp4" />
+                      <source src="/videos/network.mp4" type="video/mp4" />
                       </video>
                </Wrap>
                <Wrap>
                    <img src = '/images/gems.jpg' alt = '' />
                    <video autoPlay = { true } loop = { true } playsInline = { true }>
-                      <source src="/videos/dot.mp4" type="video/mp4" />
+                      <source src="/videos/gems.mp4" type="video/mp4" />
                       </video>
                </Wrap>
                <Wrap>
-                   <img src = '/images/happiness.jpg' alt = '' />
+                   <img src = '/images/happyness.jpg' alt = '' />
                    <video autoPlay = { true } loop = { true } playsInline = { true }>
-                      <source src="/videos/dot.mp4" type="video/mp4" />
+                      <source src="/videos/happyness.mp4" type="video/mp4" />
                       </video>
                </Wrap>
             </Content>

@@ -69,7 +69,6 @@ const Hollywood = (props) => {
 const Container = styled.div`
 margin-top: 5px;
 padding: 0 0 26px;
-
 `;
 
 const Content = styled.div`

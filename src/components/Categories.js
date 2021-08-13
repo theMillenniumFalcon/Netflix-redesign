@@ -51,6 +51,7 @@ padding: 0 0 26px;
   display: grid;
   grid-gap: 25px;
   gap: 25px;
+  font-size: 13px;
   grid-template-columns: repeat(8, minmax(0, 1fr));
   
   @media (max-width: 768px) {
@@ -58,6 +59,7 @@ padding: 0 0 26px;
     }
   @media (max-width: 1500px) {
       grid-template-columns: repeat(4, minmax(0, 1fr));
+      font-size: 9.5px;
     }
   `;
 
